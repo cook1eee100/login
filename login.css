@@ -1,0 +1,16 @@
+* {
+    background-color: gray;
+}
+
+input {
+    background-color: white;
+}
+label {
+    color:white;
+}
+button {
+    background-color : white;
+}
+.pad {
+    padding-left: 50px;
+}
